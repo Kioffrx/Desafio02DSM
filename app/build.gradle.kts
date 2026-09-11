@@ -1,8 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    // Se activará al configurar Firebase:
-    // id("com.google.gms.google-services")
+    id("com.google.gms.google-services")
 }
 
 android {
@@ -49,10 +48,14 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.3.2")
     implementation("androidx.cardview:cardview:1.0.0")
 
-    // NOTA: en el siguiente paso (Firebase) se agregarán aquí:
-    // - firebase-bom, firebase-auth-ktx, firebase-firestore-ktx, firebase-storage-ktx
-    // NOTA: al implementar carga de imágenes se agregará Glide:
-    // - com.github.bumptech.glide:glide
+    // Firebase
+    implementation(platform("com.google.firebase:firebase-bom:33.5.1"))
+    implementation("com.google.firebase:firebase-auth-ktx")
+    implementation("com.google.firebase:firebase-firestore-ktx")
+    implementation("com.google.firebase:firebase-storage-ktx")
+
+    // Carga de imágenes
+    implementation("com.github.bumptech.glide:glide:4.16.0")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.2.1")

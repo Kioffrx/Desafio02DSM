@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-mdpi_aerogo.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-mdpi\\aerogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxxhdpi_aerogo_foreground.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxxhdpi\\aerogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-hdpi_aerogo_monochrome.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-hdpi\\aerogo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-hdpi_aerogo.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-hdpi\\aerogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxxhdpi_aerogo_background.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxxhdpi\\aerogo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-hdpi_aerogo_background.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-hdpi\\aerogo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxhdpi_aerogo.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxhdpi\\aerogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xhdpi_aerogo.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xhdpi\\aerogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-mdpi_aerogo_monochrome.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-mdpi\\aerogo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-hdpi_aerogo_foreground.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-hdpi\\aerogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxxhdpi_aerogo_monochrome.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxxhdpi\\aerogo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-anydpi-v26_aerogo.xml.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-anydpi-v26\\aerogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxhdpi_aerogo_foreground.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxhdpi\\aerogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxhdpi_aerogo_monochrome.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxhdpi\\aerogo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxxhdpi_aerogo.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxxhdpi\\aerogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xhdpi_aerogo_foreground.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xhdpi\\aerogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xhdpi_aerogo_monochrome.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xhdpi\\aerogo_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-mdpi_aerogo_background.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-mdpi\\aerogo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-mdpi_aerogo_foreground.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-mdpi\\aerogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xhdpi_aerogo_background.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xhdpi\\aerogo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-release-42:\\mipmap-xxhdpi_aerogo_background.png.flat",
+        "source": "C:\\Users\\Enrique\\.gradle\\daemon\\9.0-milestone-1\\udb.edu.sv.dsm.aerogo.app-main-43:\\mipmap-xxhdpi\\aerogo_background.png"
+    },
+    {
+        "merged": "udb.edu.sv.dsm.aerogo.app-release-42:/layout_activity_main.xml.flat",
+        "source": "udb.edu.sv.dsm.aerogo.app-main-43:/layout/activity_main.xml"
+    }
+]

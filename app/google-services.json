@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733778855257",
+    "project_id": "aerogo-8e553",
+    "storage_bucket": "aerogo-8e553.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733778855257:android:8db592541d114e15d13848",
+        "android_client_info": {
+          "package_name": "udb.edu.sv.dsm.aerogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGONj7Z93zIlVSCy_29GRvvYh65ucCEcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
