@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Archivo de configuración de Firebase (NO subir credenciales reales a un repo público)
+# google-services.json
+
+# Gradle wrapper generado por Android Studio (se regenera automáticamente)
+!gradle-wrapper.jar
