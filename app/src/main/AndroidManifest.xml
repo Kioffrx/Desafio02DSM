@@ -12,6 +12,8 @@
         android:usesCleartextTraffic="false">
         <activity android:name=".LoginActivity" android:exported="false" />
         <activity android:name=".RegisterActivity" android:exported="false" />
+        <activity android:name=".CatalogActivity" android:exported="false" />
+        <activity android:name=".DestinoFormActivity" android:exported="false" />
 
         <activity
             android:name=".MainActivity"

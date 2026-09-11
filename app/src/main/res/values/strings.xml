@@ -51,7 +51,14 @@
     <string name="delete_confirm_yes">Sí, eliminar</string>
     <string name="delete_confirm_no">Cancelar</string>
 
-    <!-- Menú / sesión -->
     <string name="menu_sign_out">Cerrar sesión</string>
     <string name="sign_out_success">Sesión cerrada</string>
+
+    <!-- Catálogo: carga y borrado -->
+    <string name="error_load_destinations">No se pudieron cargar los destinos</string>
+    <string name="destination_deleted_success">Destino eliminado correctamente</string>
+    <string name="error_delete_destination">No se pudo eliminar el destino</string>
+    <string name="error_save_destination">No se pudo guardar el destino</string>
+
+
 </resources>
