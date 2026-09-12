@@ -7,24 +7,24 @@ Proyecto desarrollado para el **Segundo Desafío Práctico** de la materia
 Desarrollo de Software para Móviles (DSM) - Universidad Don Bosco.
 
 ## Alumno
-- Nombre: _(completar)_
+- Nombre: [TU NOMBRE AQUÍ]
 
 ## Tecnologías
 - Kotlin
 - Android Views (XML) + ViewBinding
 - Firebase Authentication
-- Firebase Firestore / Realtime Database
-- Firebase Storage (o alternativa local) para imágenes
+- Firebase Firestore
+- Almacenamiento local para las imágenes de los destinos
 - Glide para la carga de imágenes
 
 ## Estado del proyecto
 - [x] Estructura base del proyecto, ícono y `strings.xml`
-- [ ] Autenticación (Login / Registro) con Firebase Auth
-- [ ] Catálogo de destinos (RecyclerView + CardView)
-- [ ] Registro de destino (Create) con Spinner de país y selección de imagen
-- [ ] Edición de destino (Update)
-- [ ] Eliminación de destino con confirmación (Delete)
-- [ ] Validaciones (campos vacíos, precio > 0, imagen obligatoria)
+- [x] Autenticación (Login / Registro) con Firebase Auth
+- [x] Catálogo de destinos (RecyclerView + CardView)
+- [x] Registro de destino (Create) con Spinner de país y selección de imagen
+- [x] Edición de destino (Update)
+- [x] Eliminación de destino con confirmación (Delete)
+- [x] Validaciones (campos vacíos, precio > 0, descripción mínima, imagen obligatoria)
 
 ## Cómo ejecutar el proyecto
 1. Clonar este repositorio.
@@ -32,8 +32,11 @@ Desarrollo de Software para Móviles (DSM) - Universidad Don Bosco.
 3. Esperar a que sincronice Gradle.
 4. Ejecutar en un emulador o dispositivo físico.
 
-> Nota: cuando se agregue Firebase, se necesitará colocar el archivo
-> `google-services.json` dentro de la carpeta `app/`.
+> El archivo `google-services.json` ya está incluido en `app/` para que el
+> proyecto compile directamente.
+
+## APK
+El APK de la última versión funcional está disponible en [`apk/AeroGO.apk`](apk/AeroGO.apk).
 
 ## Video de defensa
-_(pegar aquí el enlace del video una vez grabado)_
+[PEGAR AQUÍ EL ENLACE DEL VIDEO]
