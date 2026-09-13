@@ -39,4 +39,4 @@ Desarrollo de Software para Móviles (DSM) - Universidad Don Bosco.
 El APK de la última versión funcional está disponible en [`apk/AeroGO.apk`](apk/AeroGO.apk).
 
 ## Video de defensa
-[PEGAR AQUÍ EL ENLACE DEL VIDEO]
+[https://drive.google.com/file/d/1pwX4sHs2tS95RKqonAkoqitUvd1ZR-p6/view?usp=sharing]
