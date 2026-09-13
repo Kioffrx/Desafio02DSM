@@ -7,7 +7,8 @@ Proyecto desarrollado para el **Segundo Desafío Práctico** de la materia
 Desarrollo de Software para Móviles (DSM) - Universidad Don Bosco.
 
 ## Alumno
-- Nombre: [TU NOMBRE AQUÍ]
+- Nombre: Jose Enrique Rodriguez Zometa
+- RZ242333
 
 ## Tecnologías
 - Kotlin
